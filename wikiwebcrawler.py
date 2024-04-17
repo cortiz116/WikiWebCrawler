@@ -1,7 +1,7 @@
 # ChristianaOrtizFinal1250
 # Programmer: Christiana Ortiz
 # Email: cortiz116@cnm.edu
-# Purpose: A Six Degrees of Separation program using a Wikipedia web scraper
+# Purpose: Six Degrees of Separation program using a Wikipedia web scraper
 # Python version 3.12
 
 # Libraries
