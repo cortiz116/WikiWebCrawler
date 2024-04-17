@@ -9,15 +9,16 @@ The Six Degrees of Separation program allows a user to select a Wikipedia articl
 then uses the Wikipedia API and a web scraper to create a chain of links, creating a sort of digital version of the
 Six Degrees of Separation theory or Six Degrees of Kevin Bacon game.
 
-# Required libraries
-wikipediaapi
+# Required libraries (bs4 and wikipediaapi were installed via pip in Netpod VM)
 random
 requests
-bs4
 tkinter
 re
+bs4
+wikipediaapi
 
 Created using PyCharm 2023.3.2
+Tested in PyCharm 2022.1.1 in Netpod VM
 
 # Data Structure
 
